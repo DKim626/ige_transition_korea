@@ -1,0 +1,27 @@
+
+
+data <- tribble(
+  ~country, ~ige, gini,
+  'Peru', 0.67, 49.1,
+  'China', 0.6, 38.7,
+  'Brazil', 0.58, 58.4,
+  'Chile', 0.52, 52.8,
+  'United Kingdom', 0.5, 38.8,
+  'Italy', 0.5, 35.2,
+  'Argentina', 0.49, 51,
+  'United States', 0.47,
+  'Switzerland', 0.46, 33.4,
+  'Pakistan', 0.46, 28.7,
+  'Singapore', 44,
+  'France', 0.41, 32.6,
+  'Spain', 0.4, 34.1,
+  'Japan', 0.34, 25,
+  'Germany', 0.32, 28.9,
+  'New Zealand', 29,
+  'Sweden', 0.27, 25,
+  'Australia', 0.26, 33.5,
+  'Canada', 0.25, 33.4,
+  'Finland', 0.18, 27,
+  'Norway', 0.17, 26,
+  'Denmark', 0.15, 24.8,
+)
